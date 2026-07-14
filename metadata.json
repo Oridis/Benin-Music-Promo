@@ -1,0 +1,10 @@
+{
+  "name": "Bénin Music Promo",
+  "description": "Plateforme de mise en relation des artistes indépendants béninois et des promoteurs musicaux (radios, influenceurs, blogueurs, curateurs de playlists) pour la promotion et la diffusion de leurs œuvres.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

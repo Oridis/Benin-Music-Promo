@@ -1,0 +1,18 @@
+{
+  "short_name": "BéninMusicPromo",
+  "name": "Bénin Music Promo",
+  "description": "Plateforme de promotion, diffusion et visibilité pour les artistes et promoteurs au Bénin.",
+  "icons": [
+    {
+      "src": "/pwa_icon.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#07050f",
+  "theme_color": "#07050f",
+  "display": "standalone",
+  "orientation": "portrait"
+}
